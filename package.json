@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/id-enim-deleniti-molestiae",
-  "version": "2.4.35",
+  "version": "2.4.36",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -728,5 +728,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/id-enim-deleniti-molestiae/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
